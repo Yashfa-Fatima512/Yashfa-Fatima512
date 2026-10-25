@@ -4,8 +4,7 @@
 
 ### 🎓 Computer Science Student | AI, Machine Learning & Data Analytics
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7B61FF&style=flat)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat&label=followers)
+
 
 </div>
 
@@ -99,6 +98,6 @@ Add only certificates you have actually earned, for example:
 
 ## 📫 Connect With Me
 
-- GitHub: [@Yashfa-Fatima512](https://github.com/YOUR_GITHUB_USERNAME)
+- GitHub: [Yashfa-Fatima512](https://github.com/YOUR_GITHUB_USERNAME)
 - LinkedIn: YOUR_LINKEDIN_URL
 - Email: YOUR_EMAIL
